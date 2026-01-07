@@ -1,0 +1,10 @@
+# Ignore the actual data files
+*.csv
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
