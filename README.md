@@ -1,4 +1,4 @@
-This is a command line app. What it does covert a csv file into a regular data file to make it easier to read.
+This is a command line app. What it does convert a CSV file into a regular data file to make it easier to read.
 
 # CSV Column Formatter (Native Python)
 
